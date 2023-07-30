@@ -1,4 +1,4 @@
 text from commit 2
 text from commit 3
 text from commit 1 on feature/1
-text from commit 2 on feature/1
+text from commit 2 on feature/1 but modified
