@@ -1,1 +1,2 @@
 text from commit 2
+text from commit 3
